@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle:
-  PhD Candidate. <br>
-  <a href='https://xx'>University of Stuttgart</a>. 
+  PhD Candidate.
 
 profile:
   align: right
