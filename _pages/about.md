@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
-PhD Candidate. <br>
-subtitle: <a href='#'></a>. University Hospital of Tuebingen / University of Stuttgart / Stanford University
+subtitle:
+  PhD Candidate. <br>
+  <a href='https://xx'>University of Stuttgart</a>. 
 
 profile:
   align: right
